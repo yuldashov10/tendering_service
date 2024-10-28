@@ -1,0 +1,12 @@
+.idea
+*.iml
+.git/
+Dockerfile
+venv/
+env/
+.venv/
+.env/
+задание/
+poetry.lock
+.env.sample
+.env
